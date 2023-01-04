@@ -37,7 +37,8 @@ email: 'raceto11blog@gmail.com'
 
 
 # Build settings
-theme: minima
+# Removed minima theme as it now a regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
