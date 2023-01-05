@@ -45,7 +45,7 @@ copyright: "raceto11"
 # title-logo is a new field that, when used, displays a logo instead of custom text.
 # Ideally, image is 50px high and takes up minimal horizontal space.
 # title-logo: /assets/images/my-logo.png (or JPG etc)
-# title-logo: /assets/images/logo-raceto11.png
+title-logo: /assets/images/logo-raceto11.png
 
 # Build settings
 # Removed minima theme as it now a regular theme
